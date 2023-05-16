@@ -14,7 +14,7 @@ const resources = [{
 },
 {   id: 3,
     description: "King Lion",
-    url: "assets/kinglion.PNg"
+    url: "assets/kinglion.PNG"
 },
 {
     id:4,
